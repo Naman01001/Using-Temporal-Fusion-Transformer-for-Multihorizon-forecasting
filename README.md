@@ -1,4 +1,4 @@
-# Using Temporal Fusion Transformer for Multihorizon Forecasting
+# Temporal Fusion Transformer for Multihorizon Forecasting
 
 This repository contains a complete pipeline for multi-horizon time-series forecasting using the **Temporal Fusion Transformer (TFT)**. To handle high-dimensional input features efficiently, the pipeline leverages deep **Autoencoders** for non-linear dimensionality reduction before feeding the processed data into the TFT model.
 
